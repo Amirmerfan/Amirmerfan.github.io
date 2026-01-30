@@ -94,12 +94,7 @@ ninja.data = [{
             window.location.href = "/blog/2025/rag-nlpcl-paper-copy/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "teachings-cs-102-algorithms-and-programming-ii",
+      },{id: "teachings-cs-102-algorithms-and-programming-ii",
           title: 'CS 102 - Algorithms and Programming II',
           description: "Object-Oriented Programming (OOP), Memory Management, and Data Structures in Java.",
           section: "Teachings",handler: () => {
