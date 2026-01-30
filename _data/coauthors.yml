@@ -1,34 +1,37 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"khan":
+  - firstname: ["Taha", "M. T.", "Mohammad Taha"]
+    url: https://www.linkedin.com/in/mtaha-zafer/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"ulkuer":
+  - firstname: ["Pelin", "Pelin Angin", "P. A."]
+    url: https://user.ceng.metu.edu.tr/~pangin/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"angin":
+  - firstname: ["Pelin", "P.", "Pelin Angin"]
+    url: https://user.ceng.metu.edu.tr/~pangin/
+  - firstname: ["Merih", "M."]
+    url: https://css.ku.edu.tr/en/people/merih-angin/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"naha":
+  - firstname: ["Ranesh", "R."]
+    url: https://staff.qut.edu.au/staff/ranesh.naha
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"barros":
+  - firstname: ["Alistair", "A."]
+    url: https://staff.qut.edu.au/staff/alistair.barros
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"chowdhury":
+  - firstname: ["Abdullahi", "A."]
+    url: https://researchers.adelaide.edu.au/profile/abdul.chowdhury
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"mahanti":
+  - firstname: ["Aniket", "A."]
+    url: https://profiles.auckland.ac.nz/a-mahanti
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"mortazavifar":
+  - firstname: ["Leila", "L."]
+    url: https://scholar.google.com/citations?user=Yvg36mYAAAAJ&hl=en
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"jamnezhad":
+  - firstname: ["Mohammad Iman", "M. I."]
+    url: https://en.civilica.com/p/85419/

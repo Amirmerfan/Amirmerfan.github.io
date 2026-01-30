@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"NLPCL":
+  url: https://csitcp.org/
+  color: "#00369f" 
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AIRCC":
+  url: https://www.airccse.org/
+  color: "#d9534f" 
 
-"Vision":
-  color: "#009f36"
+"METU":
+  url: https://www.metu.edu.tr/
+  color: "#e2263d" 
+
+"Bilkent":
+  url: https://w3.cs.bilkent.edu.tr/
+  color: "#1a4c8f"
+
+"IEEE":
+  url: https://www.ieee.org/
+  color: "#00629B"
+
+"ACM":
+  url: https://www.acm.org/
+  color: "#0085CA"
