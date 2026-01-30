@@ -27,19 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Master's student in the Department of Computer Engineering at **Bilkent University**, where I also serve as a **Teaching Assistant**. My research sits at the intersection of **Quantum Computing** and **Network Security**, with a particular focus on Quantum Complexity Theory and cryptographic protocols.
+I am currently a Master's student in the Department of Computer Engineering at **Bilkent University**, working under the supervision of **[Prof. Ercument Cicek](https://www.cs.bilkent.edu.tr/~cicek/)**. My research focuses on **Genomic Privacy**, developing privacy-preserving technologies for the secure analysis of sensitive genomic data. I also serve as a Teaching Assistant for the department.
 
-My work explores how emerging technologies impact established security paradigms. Specifically, I am interested in:
-* **Quantum Algorithms:** Analyzing the complexity of Simon's and Grover's algorithms, and Quantum Fourier Transforms.
-* **Computer Security:** Intrusion Detection Systems (IDS), PKI, and network defense mechanisms.
-* **Distributed Systems:** Investigating the convergence of Quantum and Fog computing architectures.
+Prior to joining Bilkent, I completed my undergraduate studies at **Middle East Technical University (METU)**. My final year research focused on Natural Language Processing (NLP) and speech recognition architectures.
 
-I have actively contributed to the research community as both an author and a reviewer. I recently published a conference paper on the intersection of **Quantum and Fog Computing** and have served as a reviewer for academic conferences.
+My undergraduate thesis, titled *"From Voice to Code: A RAG-Enhanced Pipeline for Robust Multi-Accent Order Processing,"* addressed the challenges of multi-accent speech recognition in automated systems. This work was presented at **NLPCL2025**, where it was honored with the **Most Effective Research Award**.
 
-I am driven by a curiosity to solve complex computational problems and am actively preparing for future doctoral research.
+I am passionate about the intersection of privacy, bioinformatics, and AI, and I am actively contributing to the research community as both an author and a reviewer.
 
 ***
 
 **News:**
-* **[Date]:** Served as a reviewer for [Conference Name].
-* **[Date]:** Accepted a position as a Teaching Assistant at Bilkent.
+* **2025:** Received the **Most Effective Research Award** at NLPCL2025 for my paper on RAG-Enhanced pipelines.
+* **2026:** Joined Bilkent University as an MSc Student and Teaching Assistant.
